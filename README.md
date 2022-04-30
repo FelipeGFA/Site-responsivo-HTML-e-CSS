@@ -2,5 +2,5 @@
 
 Site desenvolvido com base no Curso HTML e CSS modulo 2 - Gustavo Guanabara
 
- <a href="index.html">Executar site</a>
+ <a href="https://felipegfa.github.io/Site-responsivo-HTML-e-CSS/android.html">Executar site</a>
 
