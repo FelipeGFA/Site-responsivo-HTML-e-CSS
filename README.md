@@ -2,5 +2,5 @@
 
 Site desenvolvido com base no Curso HTML e CSS modulo 2 - Gustavo Guanabara
 
- <a href="android.html">Executar site</a>
+ <a href="index.html">Executar site</a>
 
